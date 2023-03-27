@@ -1,6 +1,6 @@
 ## Virtual Zookeeper 🐫🦁🐒
 
-A Java program to simulate a virtual zoo with different animal habitats that can be viewed through a simple command-line interface.
+A Java program to simulate a virtual zoo with different animal habitats in ASCII Code that can be viewed through a simple command-line interface. 
 
 ### Project Overview 🐾
 
