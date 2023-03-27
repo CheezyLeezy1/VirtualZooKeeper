@@ -13,7 +13,9 @@ The user will then be prompted to enter the number of the habitat they wish to v
 
 ### What I Learned 🐵
 
-Through this project, I learned how to use text blocks to display multi-line strings in a more readable way, as well as how to implement try/catch statements to handle exceptions and improve the program's error handling. Additionally, I gained experience with Git and GitHub, including creating a new repository, adding and committing files, and pushing changes to a remote repository.
+Through this project, I learned how to use text blocks to display multi-line strings in a more readable way, as well as how to implement try/catch statements to handle exceptions and improve the program's error handling. This was done to refresh my Java Skills, the learning track helped with my understand in control flow, ternary operators and more advanced java syntax. 
+
+Additionally, I gained experience with Git and GitHub, including creating a new repository, adding and committing files, and pushing changes to a remote repository.
 
 ### Conclusion 🐼
 
